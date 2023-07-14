@@ -622,6 +622,10 @@ games-ps{
    font-size: 13px;
    font-weight: 200;
 }
+.main-body{
+    display: flex;
+    justify-content: center;
+}
 
 
  
