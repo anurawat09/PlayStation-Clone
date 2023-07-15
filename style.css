@@ -633,6 +633,8 @@ games-ps{
    font-weight: 200;
 }
 .main-body{
+    max-width: 960;
+    margin: auto;
     display: flex;
     justify-content: center;
     flex-direction: column;
